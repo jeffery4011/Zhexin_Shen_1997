@@ -34,7 +34,8 @@ All the platform is covered by black cloth to prevent the influence of noises of
 {{< figure src="Exterior_environment.jpg">}}
 We designed robots with “phototaxis” that vibrate when detecting light underneath them.
 {{< video src="motion.mp4" controls="yes" >}}>
-To ensure the stability of robots' motions, several versions of robots have been tested.
+Several versions of robots have been tested to ensure stable movements.
 {{< figure src="version_kilobot.jpg">}}
-So far, many types of kilobots have been tested in different environments such as light waves and spot light circumstances. In light waves environment, we changed the velocity and width of the waves and comes to a qualitative conclusion that when there are wide waves with low velocity, the kilobot will follow a wave. When there are shallow waves with high velocity, time is too limited for kilobot to respond or catch up with. It will follow the wave for a little time and stop until next wave reaches. In spot light environment, the kilobot moves toward the spot light area.
+{{< figure src="version_kilobot1.jpg">}}
+So far, we have experimented collevtive movements in different environments such as light waves and spot light circumstances. In light waves environment, we changed the velocity and width of the waves and comes to a qualitative conclusion that when there are wide waves with low velocity, the kilobot will follow a wave. When there are shallow waves with high velocity, time is too limited for kilobot to respond or catch up with. It will follow the wave for a little time and stop until next wave reaches. In spot light environment, the kilobot moves toward the spot light area.
 {{< figure src="Condition.jpg">}}
