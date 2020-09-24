@@ -1,5 +1,5 @@
 ---
-title: Collective_motion_with_kilobots
+title: Collective motion with kilobots
 summary: Using kilobots to simulate collective behaviors of living microorganisms.
 tags:
 - Swarming
