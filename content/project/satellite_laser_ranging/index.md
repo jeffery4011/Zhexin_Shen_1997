@@ -31,4 +31,6 @@ This project focus on applying single-photon-counting & imaging techinques on ra
 {{< figure src="Laser_detector.jpg" title="Laser Detector" >}}
 We also designed an algorithm that distinguishes signals from noises as well as controls the emitter’s motors which ensures a constant following with target satellite.
 
-{{< figure src="motion.gif" title="Experiment video" >}}
+<video loop autoplay muted>
+  <source src="motion.mp4" type="video/mp4">
+</video>
