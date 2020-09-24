@@ -26,12 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Mixed Cooperation"
+    tag = "Mixed Cooperation"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Swarming"
+    tag = "Swarming"
+    
+  [[content.filter_button]]
+    name = "Laser Ranging"
+    tag = "Laser Ranging"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
