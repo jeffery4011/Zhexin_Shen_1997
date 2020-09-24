@@ -18,12 +18,12 @@ organizations:
   url: "https://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Collective Motions and Swarm Intelligence.
+bio: My research interests include Collective Motion and Swarm Intelligence.
 
 interests:
 - Swarming Dynamic
 - Multi-robots System
-- Collective Motions
+- Collective Motion
 
 education:
   courses:
