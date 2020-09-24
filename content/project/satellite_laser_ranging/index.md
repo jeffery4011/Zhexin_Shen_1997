@@ -1,10 +1,11 @@
 ---
 title: Satellite Laser Ranging
-summary: This project used coincidence photon-counting laser ranging technique to draw trajectories of several satellites. Advised by Researcher Guang Wu, East China Normal University, Shanghai, China
-date: "2020-09-22T00:00:00Z"
-
+summary: Using coincidence photon-counting laser ranging technique to draw trajectories of several satellites
 tags:
 - Laser Ranging
+date: "2020-09-22T00:00:00Z"
+
+
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
