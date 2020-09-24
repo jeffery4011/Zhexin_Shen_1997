@@ -30,7 +30,4 @@ links:
 This project focus on applying single-photon-counting & imaging techinques on ranging & drawing trajectories of different satellites. The equipments we used are shown below. 
 {{< figure src="Laser_detector.jpg" title="Laser Detector" >}}
 We also designed an algorithm that distinguishes signals from noises as well as controls the emitter’s motors which ensures a constant following with target satellite.
-
-<video loop autoplay muted>
-  <source src="motion.mp4" type="video/mp4">
-</video>
+{{< video src="motion.mp4" controls="yes" >}}>
