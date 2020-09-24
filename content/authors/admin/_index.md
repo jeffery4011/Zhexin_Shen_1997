@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Zhexin Shen is an undergraduate student major in Physics at East China Normal University. His research interest includes Swarming Dynamic, Multi-robots System and Collective Motions. 
+Zhexin Shen is an undergraduate student major in Physics at East China Normal University. His research interest includes Swarming Dynamic, Multi-robots System and Collective Motion. 
