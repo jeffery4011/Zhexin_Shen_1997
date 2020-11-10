@@ -1,5 +1,5 @@
 ---
-title: Proficiency Aware Multi-Agent Actor-Critic for Mixed Aerial and Ground Robot Teaming
+title: Proficiency Awareness for Mixed Aerial & Ground Robot Teaming
 summary: Using MADRL algorithm with proficiency awareness to exploit the potential of a mixed team
 tags:
 - Mixed Cooperation
