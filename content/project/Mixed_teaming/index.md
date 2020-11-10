@@ -26,8 +26,10 @@ links:
   name: Cognitive Robotics and AI Lab(CRAI)
   url: https://ruiliurobotics.weebly.com/research.html
 ---
-  Mixed aerial and ground robot teaming, which involves ground vehicles (UGV) and unmanned aerialvehicles (UAVs), is widely used for ground criminal chasing,precise agriculture, and natural disaster rescue. 
-  However, robot proficiency is different from each other that ground and aerialrobots are different in motion speed, perceiving range, and reaching area, and even tolerance to environment conditions. With the heterogeneous capabilities of robots’, it brings challenges of controlling as well as maximally exploiting a group of different robots. 
+  Mixed aerial and ground robot teaming, which involves ground vehicles (UGV) and unmanned aerialvehicles (UAVs), is widely used for ground criminal chasing,precise agriculture, and natural disaster rescue.
+  
+  However, robot proficiency is different from each other that ground and aerialrobots are different in motion speed, perceiving range, and reaching area, and even tolerance to environment conditions. With the heterogeneous capabilities of robots’, it brings challenges of controlling as well as maximally exploiting a group of different robots.
+  
   Therefore, to address this challenge for effective ground and aerial teaming, this paper developed a pro-ficiency aware multi-agent deep reinforcement learning  (mix-RL) method to guide mixed teaming by adapting to capability difference of robot and task requirements.
 {{< figure src="Environment.jpg" title="Simulated Kent State University Student Center, University Library and Risman Plaza" >}}
 We use Gazebo to simulate the environment of Kent State University Student Center, University Library and Risman Plaza which includes diffenet conditions such as forests, buildings and plaza.
