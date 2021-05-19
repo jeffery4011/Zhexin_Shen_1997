@@ -17,7 +17,7 @@ external_link: ""
 # Optional header image (relative to `static/media/` folder).
 
 image:
-  caption: One version of our kilobots
+  caption: Swarming
   focal_point: Smart
 
 links:
@@ -26,16 +26,10 @@ links:
   name: Zhang's lab
   url: https://ins.sjtu.edu.cn/people/hpzhang/index_en.html
 ---
-We focus on simulating collective behaviors of living microorganisms with multiple simple robots. The present goal of this project is to reproduce the result of [Paper](https://arxiv.org/abs/1606.09559). 
-{{< figure src="behaviors.jpg" title="Target Results" >}}
-We set up a plat form for the experiments. The bottom of this plat form is a LCD TV where we can show images and videos through Matlab program to mimic different environments.
-{{< figure src="Interior_environment.jpg">}}
-All the platform is covered by black cloth to prevent the influence of noises of exterior illumination.
-{{< figure src="Exterior_environment.jpg">}}
-We designed robots with “phototaxis” that vibrate when detecting light underneath them.
-{{< video src="motion.mp4" controls="yes" >}}>
-Several versions of robots have been tested to ensure stable movements.
-{{< figure src="version_kilobot.jpg">}}
-{{< figure src="version_kilobot1.jpg">}}
-So far, we have experimented collective movements in different environments such as light waves and spot light circumstances. In light waves environment, we changed the velocity and width of the waves and comes to a qualitative conclusion that when there are wide waves with low velocity, the kilobot will follow a wave. When there are shallow waves with high velocity, time is too limited for kilobot to respond or catch up with. It will follow the wave for a little time and stop until next wave reaches. In spot light environment, the kilobot moves toward the spot light area.
-{{< figure src="Condition.jpg">}}
+From bacterial colonies measured in micrometers to flocks of birds and fish schools measured in centimeters, nature is filled with examples of collective motion. In collective motion, vast numbers of simple and self-propelled individuals, after aggregating, show complex physical phenomena and capabilities. Biological organisms achieve robust high-level behaviours by combining and coordinating stochastic low-level components.
+
+However, due to the limitations of physical structures and classic control algorithm, it is challenging to reproduce and control the collective motion in multi-robot system. In this paper, we study a simple yet robust collective motion called Flashing Ratchet. In our designed system, each robot does not possess individual identity or addressable position yet can move stochastically towards to the darker position.
+
+Though possessing strong stochasticity, we prove theoretically, numerically and experimentally that suitable time and space parameters provided, Flashing Ratchet can be used to control vast number of robots. After 5 on-offs, 75% of the robots can move directionally. This study indicates that stochastic systems may offer an alternative approach to design robot system with more complex behaviors and stronger robustness.
+{{< figure src="Mechanism_ratchet.jpg" title="Picture from  [Paper](https://royalsocietypublishing.org/doi/10.1098/rsos.171685#:~:text=The%20flashing%20Brownian%20ratchet%20is,discrete%20in%20time%20and%20space.)" >}}
+
