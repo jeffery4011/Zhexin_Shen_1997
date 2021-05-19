@@ -34,5 +34,5 @@ Though possessing strong stochasticity, we prove theoretically, numerically and 
 {{< figure src="Mechanism_ratchet.jpg" title="Flashing Ratchet Mechanism from  [Paper](https://royalsocietypublishing.org/doi/10.1098/rsos.171685#:~:text=The%20flashing%20Brownian%20ratchet%20is,discrete%20in%20time%20and%20space.)" >}}
 Initially(upper figure), the potential is on and all the particles are located around one of the minima of the potential. Then the potential is switched off and the particles diffuse freely, as shown in the centred figure, which is a snapshot of the system immediately before the potential is switched on again. Once the potential is connected again, the particles in the darker region move to the right-hand minimum whereas those within the small gray region move to the left. Due to the asymmetry of the potential, the ensemble of particles move, on average, to the right.
 {{< video src="Simulation_demo.mp4" controls="yes">}}>
-We simulated a system of "$$3 \\times 10^5$$" robots in a "$$1840mm \\times 1030mm$$" platform. The time evolution of system is similar to mechanism of Flashing Ratchet.
+We simulated a system of $3 \\times 10^5$ robots in a $1840mm \\times 1030mm$ platform. The time evolution of system is similar to mechanism of Flashing Ratchet.
 
