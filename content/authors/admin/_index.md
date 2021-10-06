@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student of Physics
+role: Graduate Student of Robotics
 
 # Organizations/Affiliations
 organizations:
-- name: East China Normal University
-  url: "https://www.ecnu.edu.cn/"
+- name: Georgia Institute of Technology
+  url: "https://gatech.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Collective Motion and Swarm Intelligence.
@@ -27,7 +27,10 @@ interests:
 
 education:
   courses:
-
+  - course: MS in Robotics
+    institution: Georgia Institute of Technology
+    year: 2023
+  
   - course: BSc in Phyisics
     institution: East China Normal University
     year: 2021
@@ -59,7 +62,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "10175300242@stu.ecnu.edu.cn"
+email: "zshen321@gatech.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Zhexin Shen is an undergraduate student major in Physics at East China Normal University. His research interest includes Swarming Dynamic, Multi-robots System and Collective Motion. 
+Zhexin Shen is an graduate student major in Robotics at Georgia Institute of Technology. His research interest includes Swarming Dynamic, Multi-robots System and Collective Motion. 
