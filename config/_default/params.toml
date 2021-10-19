@@ -89,15 +89,15 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "jefferyshen1015@gmail.com"
-phone = "(+86)13818182249"
+phone = "(+1)4045127427"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "500 Dongchuan Road", city = "Shanghai", region = "Shanghai", postcode = "201100", country = "People's Republic of China", country_code = "CN"}
+address = {street = "837 State Street", city = "Atlanta", region = "Georgia", postcode = "30313", country = "United States of America", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.02464", longitude = "121.42379"}
+coordinates = {latitude = "33.777564", longitude = "-84.398785"}
 
 # Directions for visitors to locate you.
 
